@@ -1,0 +1,17 @@
+C:\Users\Mi Equipo\OneDrive\Desktop\Ejercicios 6.2\TempoControl\TempoControl.Data\bin\Debug\net8.0\TempoControl.Data.deps.json
+C:\Users\Mi Equipo\OneDrive\Desktop\Ejercicios 6.2\TempoControl\TempoControl.Data\bin\Debug\net8.0\TempoControl.Data.runtimeconfig.json
+C:\Users\Mi Equipo\OneDrive\Desktop\Ejercicios 6.2\TempoControl\TempoControl.Data\bin\Debug\net8.0\TempoControl.Data.dll
+C:\Users\Mi Equipo\OneDrive\Desktop\Ejercicios 6.2\TempoControl\TempoControl.Data\bin\Debug\net8.0\TempoControl.Data.pdb
+C:\Users\Mi Equipo\OneDrive\Desktop\Ejercicios 6.2\TempoControl\TempoControl.Data\bin\Debug\net8.0\TempoControl.Domain.dll
+C:\Users\Mi Equipo\OneDrive\Desktop\Ejercicios 6.2\TempoControl\TempoControl.Data\bin\Debug\net8.0\TempoControl.Domain.pdb
+C:\Users\Mi Equipo\OneDrive\Desktop\Ejercicios 6.2\TempoControl\TempoControl.Data\obj\Debug\net8.0\TempoControl.Data.csproj.AssemblyReference.cache
+C:\Users\Mi Equipo\OneDrive\Desktop\Ejercicios 6.2\TempoControl\TempoControl.Data\obj\Debug\net8.0\TempoControl.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mi Equipo\OneDrive\Desktop\Ejercicios 6.2\TempoControl\TempoControl.Data\obj\Debug\net8.0\TempoControl.Data.AssemblyInfoInputs.cache
+C:\Users\Mi Equipo\OneDrive\Desktop\Ejercicios 6.2\TempoControl\TempoControl.Data\obj\Debug\net8.0\TempoControl.Data.AssemblyInfo.cs
+C:\Users\Mi Equipo\OneDrive\Desktop\Ejercicios 6.2\TempoControl\TempoControl.Data\obj\Debug\net8.0\TempoControl.Data.csproj.CoreCompileInputs.cache
+C:\Users\Mi Equipo\OneDrive\Desktop\Ejercicios 6.2\TempoControl\TempoControl.Data\obj\Debug\net8.0\TempoCon.86898078.Up2Date
+C:\Users\Mi Equipo\OneDrive\Desktop\Ejercicios 6.2\TempoControl\TempoControl.Data\obj\Debug\net8.0\TempoControl.Data.dll
+C:\Users\Mi Equipo\OneDrive\Desktop\Ejercicios 6.2\TempoControl\TempoControl.Data\obj\Debug\net8.0\refint\TempoControl.Data.dll
+C:\Users\Mi Equipo\OneDrive\Desktop\Ejercicios 6.2\TempoControl\TempoControl.Data\obj\Debug\net8.0\TempoControl.Data.pdb
+C:\Users\Mi Equipo\OneDrive\Desktop\Ejercicios 6.2\TempoControl\TempoControl.Data\obj\Debug\net8.0\TempoControl.Data.genruntimeconfig.cache
+C:\Users\Mi Equipo\OneDrive\Desktop\Ejercicios 6.2\TempoControl\TempoControl.Data\obj\Debug\net8.0\ref\TempoControl.Data.dll

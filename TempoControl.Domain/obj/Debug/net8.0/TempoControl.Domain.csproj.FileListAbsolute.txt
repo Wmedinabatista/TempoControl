@@ -1,0 +1,11 @@
+C:\Users\Mi Equipo\OneDrive\Desktop\Ejercicios 6.2\TempoControl\TempoControl.Domain\bin\Debug\net8.0\TempoControl.Domain.deps.json
+C:\Users\Mi Equipo\OneDrive\Desktop\Ejercicios 6.2\TempoControl\TempoControl.Domain\bin\Debug\net8.0\TempoControl.Domain.dll
+C:\Users\Mi Equipo\OneDrive\Desktop\Ejercicios 6.2\TempoControl\TempoControl.Domain\bin\Debug\net8.0\TempoControl.Domain.pdb
+C:\Users\Mi Equipo\OneDrive\Desktop\Ejercicios 6.2\TempoControl\TempoControl.Domain\obj\Debug\net8.0\TempoControl.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mi Equipo\OneDrive\Desktop\Ejercicios 6.2\TempoControl\TempoControl.Domain\obj\Debug\net8.0\TempoControl.Domain.AssemblyInfoInputs.cache
+C:\Users\Mi Equipo\OneDrive\Desktop\Ejercicios 6.2\TempoControl\TempoControl.Domain\obj\Debug\net8.0\TempoControl.Domain.AssemblyInfo.cs
+C:\Users\Mi Equipo\OneDrive\Desktop\Ejercicios 6.2\TempoControl\TempoControl.Domain\obj\Debug\net8.0\TempoControl.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Mi Equipo\OneDrive\Desktop\Ejercicios 6.2\TempoControl\TempoControl.Domain\obj\Debug\net8.0\TempoControl.Domain.dll
+C:\Users\Mi Equipo\OneDrive\Desktop\Ejercicios 6.2\TempoControl\TempoControl.Domain\obj\Debug\net8.0\refint\TempoControl.Domain.dll
+C:\Users\Mi Equipo\OneDrive\Desktop\Ejercicios 6.2\TempoControl\TempoControl.Domain\obj\Debug\net8.0\TempoControl.Domain.pdb
+C:\Users\Mi Equipo\OneDrive\Desktop\Ejercicios 6.2\TempoControl\TempoControl.Domain\obj\Debug\net8.0\ref\TempoControl.Domain.dll
